@@ -1,0 +1,9 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": { },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
